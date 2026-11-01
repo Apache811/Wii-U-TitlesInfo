@@ -345,3 +345,7 @@ The WUHB package includes `meta/bootTvTex.tga` and `meta/bootDrcTex.tga` as TV a
 - Product Code and region depend on metadata being present and readable from the mounted title volume.
 - Storage capacity/usage is intentionally omitted.
 - The application has no in-app music or audio playback.
+
+## Support ❤️❤️❤️
+If you find Titles Info useful and would like to support its future development, or simply say thank you, please consider leaving a tip. 😊
+<https://ko-fi.com/apache81>

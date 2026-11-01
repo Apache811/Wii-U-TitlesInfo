@@ -17,27 +17,27 @@
 ## Screenshots
 
 <p align="center">
-  <img src="docs/screenshot_00.png" alt="Screenshot 00" width="100%" />
+  <img src="docs/screenshot_00.jpg" alt="Screenshot 00" width="100%" />
 </p>
 
 <p align="center">
-  <img src="docs/screenshot_01.png" alt="Screenshot 01" width="100%" />
+  <img src="docs/screenshot_01.jpg" alt="Screenshot 01" width="100%" />
 </p>
 
 <p align="center">
-  <img src="docs/screenshot_02.png" alt="Screenshot 02" width="100%" />
+  <img src="docs/screenshot_02.jpg" alt="Screenshot 02" width="100%" />
 </p>
 
 <p align="center">
-  <img src="docs/screenshot_03.png" alt="Screenshot 03" width="100%" />
+  <img src="docs/screenshot_03.jpg" alt="Screenshot 03" width="100%" />
 </p>
 
 <p align="center">
-  <img src="docs/screenshot_04.png" alt="Screenshot 04" width="100%" />
+  <img src="docs/screenshot_04.jpg" alt="Screenshot 04" width="100%" />
 </p>
 
 <p align="center">
-  <img src="docs/screenshot_05.png" alt="Screenshot 05" width="100%" />
+  <img src="docs/screenshot_05.jpg" alt="Screenshot 05" width="100%" />
 </p>
 
 ## Features

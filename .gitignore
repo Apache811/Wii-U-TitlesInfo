@@ -1,0 +1,12 @@
+build/
+# Generated Wii U build artifacts
+*.o
+*.d
+*.elf
+*.rpx
+*.wuhb
+*.map
+*.lst
+*_ttf.h
+*_json.h
+*_png.h
